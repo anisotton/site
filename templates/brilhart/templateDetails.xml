@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>brilhart</name>
+	<version>1.0</version>
+	<creationDate>31/01/2018</creationDate>
+	<author>Anderson Isotton</author>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters, Inc. All rights reserved.</copyright>
+	<description>Layout brilhart</description>
+	<files>
+		<filename>error.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>head</position>
+		<position>banner</position>
+		<position>position-1</position>
+		<position>position-2</position>
+		<position>position-3</position>
+		<position>footer</position>
+	</positions>
+	<config>
+	</config>
+</extension>
