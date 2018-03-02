@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e84ffd7-a9bc-4ed6-aaf8-c943a9ed36b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
       <change beforePath="$PROJECT_DIR$/templates/brilhart/css/template.css" afterPath="$PROJECT_DIR$/templates/brilhart/css/template.css" />
       <change beforePath="$PROJECT_DIR$/templates/brilhart/images/logo.svg" afterPath="$PROJECT_DIR$/templates/brilhart/images/logo.svg" />
       <change beforePath="$PROJECT_DIR$/templates/brilhart/index.php" afterPath="$PROJECT_DIR$/templates/brilhart/index.php" />
@@ -15,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/brilhart/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
@@ -33,6 +34,16 @@
                 <marker date="1520029341000" expanded="true" signature="6866:6962" ph="..." />
                 <marker date="1520029341000" expanded="false" signature="6924:6930" ph="©" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/templates/brilhart/css/template.css" />
         <option value="$PROJECT_DIR$/templates/brilhart/index.php" />
+        <option value="$PROJECT_DIR$/configuration.php" />
       </list>
     </option>
   </component>
@@ -67,7 +79,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-123" />
     <option name="y" value="-8" />
     <option name="width" value="1364" />
@@ -157,15 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520024491530</updated>
-      <workItem from="1520024493416" duration="4260000" />
+      <workItem from="1520024493416" duration="4888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4260000" />
+    <option name="totallyTimeSpent" value="4888000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -224,6 +236,14 @@
             <marker date="1520029341000" expanded="true" signature="6866:6962" ph="..." />
             <marker date="1520029341000" expanded="false" signature="6924:6930" ph="©" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
