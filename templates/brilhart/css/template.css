@@ -1,10 +1,12 @@
-
+body{
+    background-color: #f0f3f6;
+}
 
 .logo img patch{
     fill: white;
 }
 .logo img{
-    width: 185px;
+    width: 130px;
     height: 40px;
 
 }
@@ -16,11 +18,25 @@
     border-bottom: 0px;
     transition: background-color .5s ease 0s;
 }
-
 .opaque-navbar.opaque {
     background-color: #830bb3;
     height: 60px;
     transition: background-color .5s ease 0s;
+}
+.mascara-transparente{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.45;
+}
+
+.container span.title{
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 45px 0px;
+    font-size: 28px;
+    color: #959698;
 }
 
 @media (max-width: 992px) {
